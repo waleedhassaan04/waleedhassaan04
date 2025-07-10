@@ -21,7 +21,7 @@
  </p>
 
 #### Manual SQA Stack
-<p align="left"><img src="https://www.svgrepo.com/download/503175/atlassian-jira.svg" alt="Jira" title="Jira" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p>
+<p align="left"><img src="https://www.svgrepo.com/download/503175/atlassian-jira.svg" alt="Jira" title="Jira" width="40" height="40"/>  <img src="https://www.svgrepo.com/download/331330/bugzilla.svg" alt="Bugzilla" title="Bugzilla" width="40" height="40"/>  <img src="https://www.svgrepo.com/download/353515/browserstack.svg" alt="BrowserStack" title="BrowserStack" width="40" height="40"/> <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" alt="Postman" title="Postman" width="40" height="40"/> </p>
 
 #### Database Stack
 <p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="cassandra" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="couchbase" title="couchbase" width="40" height="40"/> </p>
