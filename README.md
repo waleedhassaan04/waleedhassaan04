@@ -1,3 +1,4 @@
+![logo](https://github.com/obaidsajjad-SQA-Engineer/obaidsajjad-SQA-Engineer/blob/main/sqa-manual-automatic-functional-and-regression-testing.png)
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Muhammad Waleed Hassaan </font></h1>
 <h3 align="center"><font face="Arial"><a href="https:https://www.linkedin.com/in/muhammad-waleed-12236120a/" target="_blank" rel="noreferrer">Waleed</a> is a passionate Software Engineer from Pakistan, working on QA Automation for 1+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
