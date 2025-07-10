@@ -36,7 +36,8 @@
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
 
 #### Editor / IDE I ♥
-<p align="left"><img src="https://www.svgrepo.com/download/354408/sublimetext-icon.svg" alt="Sublime Text" title="Sublime Text" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Android_Studio_icon_%282023%29.svg" alt="Android Studio" title="Android Studio" width="40" height="40"/> </p>
+<p align="left"><img src="https://www.svgrepo.com/download/354408/sublimetext-icon.svg" alt="Sublime Text" title="Sublime Text" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Eclipse_Luna.svg" alt="Eclipse" title="Eclipse IDE" width="40" height="40"/>
+🔗 Direct link: </p>
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
